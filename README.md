@@ -1,6 +1,8 @@
 # Roxiler-Systems
 InternShala Assessment
 
+
+For packages :-npm i
 Start cmd :- Npm run dev 
 
 API
